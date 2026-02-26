@@ -2,7 +2,7 @@
   "$schema": "https://dl.viam.dev/module.schema.json",
   "module_id": "viam:greenhouse-fan1",
   "visibility": "public",
-  "url": "",
+  "url": "https://github.com/wofai-ewa/greenhouse-fan1",
   "description": "Modular switch component: greenhouse-fan1",
   "models": [
     {
