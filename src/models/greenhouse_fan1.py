@@ -38,7 +38,7 @@ DEFAULT_POLL_INTERVAL = 10
 
 class GreenhouseFan1(Switch, EasyResource):
     MODEL: ClassVar[Model] = Model(
-        ModelFamily("viam", "greenhouse-fan1"), "greenhouse-fan1"
+        ModelFamily("bill", "greenhouse-fan1"), "greenhouse-fan1"
     )
 
     _position: int = 0
